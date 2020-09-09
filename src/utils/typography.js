@@ -11,7 +11,7 @@ const typography = new Typography({
       styles: ["300", "400", "600", "700"],
     },
   ],
-  headerFontFamily: ["Nunito", "sans-serif"],
+  headerFontFamily: ["Comfortaa", "sans-serif"],
   bodyFontFamily: ["Quattrocento Sans", "sans-serif"],
   baseFontSize: "18px",
   baseLineHeight: 1.666,
