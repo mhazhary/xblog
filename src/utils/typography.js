@@ -3,7 +3,7 @@ import Typography from "typography"
 const typography = new Typography({
   googleFonts: [
     {
-      name: "Nunito",
+      name: "Comfortaa",
       styles: ["300", "400", "600", "700"],
     },
     {
