@@ -1,6 +1,6 @@
 ---
 templateKey: Bio
-name: Ahmad Zakiy
-description: I write code for a living
-cover: /img/avatar.jpg
+name: M. Hanif Azhary
+description: Hey, Thank You, Good Bye
+cover: /img/P_20170717_141647_LL_3.jpg
 ---
